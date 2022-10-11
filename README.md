@@ -7,10 +7,10 @@ I am Sakon Patsamit. I am currently a student at Noroff School of technology and
 
 * Design
 * Interaction Design
-*HTML
-*CSS
-*Javascript
-*Content Management Systems
+* HTML
+* CSS
+* Javascript
+* Content Management Systems
 
 ## 📫 How to reach me?
 sakonpatsamit@gmail.com
