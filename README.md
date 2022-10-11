@@ -16,7 +16,7 @@ I am Sakon Patsamit. I am currently a student at Noroff School of technology and
 sakonpatsamit@gmail.com
 You can ask me about anything! 💬
 
-##⚡ One line that describes me the most?
+## ⚡ One line that describes me the most?
 *I love food*
 
 <!--
