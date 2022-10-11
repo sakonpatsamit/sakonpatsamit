@@ -19,6 +19,8 @@ You can ask me about anything! 💬
 ## ⚡ One line that describes me the most?
 *I love food*
 
+### 👋 See you around!
+
 <!--
 **sakonpatsamit/sakonpatsamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
