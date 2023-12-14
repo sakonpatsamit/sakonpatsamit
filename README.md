@@ -1,6 +1,6 @@
 # Hey Everyone 👋
 
-I am Sakon Patsamit. I am currently a student at Noroff School of technology and digital media. I am currently in my first year of my studies and I am look forward to year 2. I am 27 years old and I am from Norway. I am determent to become a better developer ⚡ Outside of my studies I really like to cook, go on walks and take my dog to hikes. 
+I am Sakon Patsamit. I am currently a student at Noroff School of technology and digital media. I am 28 years old and I am from Norway. I am determent to become a better developer ⚡ Outside of my studies I really like to cook, go on walks and take my dog to hikes. 
 
 
 ## 🌱 What I've learnt so far
@@ -11,6 +11,9 @@ I am Sakon Patsamit. I am currently a student at Noroff School of technology and
 * CSS
 * Javascript
 * Content Management Systems
+* React
+* Tailwind
+* Bootstrap
 
 ## 📫 How to reach me?
 sakonpatsamit@gmail.com
